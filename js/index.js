@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-ReactDOM.render(<h1>Privet</h1>, document.getElementById("app"))
-=======
 // ReactDOM.render(React.createElement("input",{
 //     placeholder: "Help text",
 //     onClick: () => console.log("Clicked"),
@@ -30,4 +26,3 @@ const el =
 </div>)
 const app = document.getElementById("app")
 ReactDOM.render(el, app )
->>>>>>> 84daa7b (SecondCommit)
